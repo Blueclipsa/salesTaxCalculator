@@ -9,6 +9,7 @@
 				"-fdiagnostics-color=always",
 				"-g",
 				"-std=c++20",
+				// minor change for commit
 				"${file}",
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe"

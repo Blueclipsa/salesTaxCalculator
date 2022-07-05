@@ -29,6 +29,6 @@ int main()
 
     cout << "The total cost of your item will be " << totalPrice;
 
- // This is a test change for commit
+ // This is a test change for commit 
 
 }
